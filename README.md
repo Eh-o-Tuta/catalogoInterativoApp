@@ -63,5 +63,5 @@ npx expo start
  - Login: Admin
  - Senha: 1234
 
- Autor
-- Matheus Souza
+Autor
+Matheus Souza
