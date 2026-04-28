@@ -1,4 +1,4 @@
-# MyApp - E-commerce React Native
+# Catálogo Interativo App
 
 Este é um aplicativo de e-commerce simples desenvolvido com React Native e React Navigation. Ele permite que os usuários se autentiquem, naveguem por categorias de produtos, visualizem a lista de produtos, e visualizem os detalhes de cada produto.
 
@@ -40,28 +40,28 @@ src/
 - [Expo CLI]
 - Git instalado  
 
-## Login e senha para acessar o app
- - Login: Admin
- - Senha: 1234
 
 ## Como rodar o projeto
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/my-app.git
+git clone https://github.com/seu-usuario/catalogoInterativoApp.git
 
 # Acessar a pasta do projeto
-cd my-app
+cd catalogoInterativoApp
 
 # Instalar a dependência
 npm install
 
-Para iniciar o app:
-
-```bash
+# Para iniciar o app:
 
 npx expo start
 
+```
 
-Autor
-- Maheus Souza
+## Login e senha para acessar o app
+ - Login: Admin
+ - Senha: 1234
+
+ Autor
+- Matheus Souza
